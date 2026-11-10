@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+smartfix.db
+venv/
+env/
+.vercel
+.DS_Store
